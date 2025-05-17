@@ -90,7 +90,7 @@ uvicorn app.main:app --reload
 
 ```bash
 # Clone repository
-git clone <repository-url>
+git clone https://github.com/PhucHau0310/Movie-Ticket-System
 cd MovieTicketSystem/MovieTicketAPI
 
 # Build and run with Docker Compose
