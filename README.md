@@ -52,10 +52,10 @@ This project implements a movie ticket booking system with two main components:
 
 ## Screenshots
 
-![Login Screen](path/to/login.png)
-![Customer Dashboard](path/to/customer.png)
-![Admin Dashboard](path/to/admin.png)
-![Movie Management](path/to/movies.png)
+![Login Screen](/Screenshots/auth/signin.png)
+![Customer Recommandations](/Screenshots/customer/recommandations.png)
+![Admin Dashboard](/Screenshots/admin/dashboard.png)
+![Movie Management](/Screenshots/admin/managementMovie.png)
 
 ## Getting Started
 
