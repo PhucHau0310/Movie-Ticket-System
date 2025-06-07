@@ -150,7 +150,7 @@ MovieTicketSystem/
 **Nguyễn Phúc Hậu**
 
 -   Email: haunhpr024@gmail.com
--   GitHub: [P](https://github.com/yourusername)huchau0310
+-   GitHub: [Phuchau0310](https://github.com/Phuchau0310)
 
 ## 📜 License
 
