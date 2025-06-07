@@ -83,7 +83,7 @@ This project implements a movie ticket booking system with two main components:
 
 ```bash
 # Clone repository
-git clone <repository-url>
+git clone https://github.com/PhucHau0310/Movie-Ticket-System
 cd MovieTicketSystem/MovieTicketAPI
 
 # Create virtual environment
@@ -108,7 +108,7 @@ uvicorn app.main:app --reload
 
 ```bash
 # Clone repository
-git clone <repository-url>
+git clone https://github.com/PhucHau0310/Movie-Ticket-System
 cd MovieTicketSystem/MovieTicketAPI
 
 # Build and run with Docker Compose
