@@ -1,8 +1,8 @@
-# Movie Ticket Booking System
+# 🚀 Movie Ticket Booking System
 
 A full-stack movie ticket booking system with FastAPI backend and Windows Forms frontend.
 
-## Table of Contents
+## 🏗️ Table of Contents
 
 -   [Overview](#overview)
 -   [Features](#features)
@@ -14,27 +14,34 @@ A full-stack movie ticket booking system with FastAPI backend and Windows Forms 
 -   [Project Structure](#project-structure)
 -   [Author](#author)
 
-## Overview
+## 📌 Overview
 
 This project implements a movie ticket booking system with two main components:
 
 -   RESTful API built with FastAPI
 -   Windows Forms desktop application for user interface
 
-## Features
+## ✨ Features
 
--   User authentication (Login/Register)
--   Role-based access control (Admin/Staff/Customer)
--   Movie management
--   Ticket booking with VNPay integration
--   Movie recommendations using Pinecone vector similarity
--   User profile and preferences management
--   Dashboard with statistics
--   Ticket history tracking
+⚡ User authentication (Login/Register)
 
-## Technology Stack
+⚡ Role-based access control (Admin/Staff/Customer)
 
-### Backend (API)
+⚡ Movie management
+
+⚡ Ticket booking with VNPay integration
+
+⚡ Movie recommendations using Pinecone vector similarity
+
+⚡ User profile and preferences management
+
+⚡ Dashboard with statistics
+
+⚡ Ticket history tracking
+
+## 🛠 Technology Stack
+
+### 🔒 Backend (API)
 
 -   Python 3.11
 -   FastAPI
@@ -44,22 +51,33 @@ This project implements a movie ticket booking system with two main components:
 -   Pinecone
 -   Docker
 
-### Frontend (Desktop App)
+### 📸 Frontend (Desktop App)
 
 -   C# Windows Forms
 -   .NET Framework
 -   Visual Studio 2022
 
-## Screenshots
+## 📸 Screenshots
+
+### Login Screen
 
 ![Login Screen](/Screenshots/auth/signin.png)
+
+### Recommandations Screen
+
 ![Customer Recommandations](/Screenshots/customer/recommandations.png)
+
+### Admin Dashboard Screen
+
 ![Admin Dashboard](/Screenshots/admin/dashboard.png)
+
+### Movie Management Screen
+
 ![Movie Management](/Screenshots/admin/managementMovie.png)
 
-## Getting Started
+## 🧪 Getting Started
 
-### API Setup
+### 🔌 API Setup
 
 #### Option 1: Using Virtual Environment
 
@@ -97,17 +115,17 @@ cd MovieTicketSystem/MovieTicketAPI
 docker-compose up --build
 ```
 
-The API will be available at `http://localhost:8000`  
+The API will be available at `http://localhost:8000`
 Swagger documentation: `http://localhost:8000/docs`
 
-### Desktop App Setup
+### 🔒 Desktop App Setup
 
 1. Open `MovieTicketSystem/MovieTicketApp/MovieTicketApp.sln` in Visual Studio
 2. Restore NuGet packages
 3. Build the solution
 4. Run the application
 
-## Project Structure
+## 📁 Project Structure
 
 ```
 MovieTicketSystem/
@@ -127,13 +145,13 @@ MovieTicketSystem/
     └── Utils/             # Utility classes
 ```
 
-## Author
+## 👨‍💻 Author
 
 **Nguyễn Phúc Hậu**
 
 -   Email: haunhpr024@gmail.com
--   GitHub: [Your GitHub Profile](https://github.com/yourusername)
+-   GitHub: [P](https://github.com/yourusername)huchau0310
 
-## License
+## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
